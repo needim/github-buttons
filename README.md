@@ -1,9 +1,9 @@
-UNOFFICIAL GITHUB BUTTONS
+UNOFFICIAL CUSTOM GITHUB BUTTONS
 =========================
 
 Showcase your GitHub (repo's) success with these three simple, static buttons featuring dynamic watch, fork and follower counts and a link to your GitHub repo, profile page, download URL.
 
-To get started, checkout http://ghbtns.com!
+To get started, checkout http://ned.im/github-buttons!
 
 
 

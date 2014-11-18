@@ -116,8 +116,9 @@ h1, h2, h3, h4, h5, h6 {
 }
 .about-star,
 .about-fork,
-.about-follow {
-  width: 32%;
+.about-follow,
+.about-download {
+  width: 23%;
   float: left;
 }
 .about-buttons div + div {
